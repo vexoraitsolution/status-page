@@ -8,8 +8,11 @@ repo: status-page           # The name of your GitHub repository
 sites:
   - name: Vexora Main Website
     url: https://vexorait.com
-  - name: Private Server Check
-    url: $SECRET_SITE        # Optional: Private URL fetched from GitHub Secrets
+   - name: VexoraTap
+    url: https://tap.vexorait.com   
+
+  # - name: Private Server Check
+  #   url: $SECRET_SITE        # Optional: Private URL fetched from GitHub Secrets
 
 # Public Status Page Settings
 status-website:
