@@ -8,6 +8,7 @@ repo: status-page           # The name of your GitHub repository
 sites:
   - name: Vexora Main Website
     url: https://vexorait.com
+    
    # - name: VexoraTap
    #  url: https://tap.vexorait.com   
 
