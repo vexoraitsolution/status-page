@@ -4,19 +4,19 @@
     "url": "https://vexorait.com",
     "icon": "https://icons.duckduckgo.com/ip3/vexorait.com.ico",
     "slug": "vexora-main-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 858,
-    "timeWeek": 1232,
-    "timeMonth": 1288,
-    "timeYear": 1288,
+    "status": "up",
+    "uptime": "98.58%",
+    "uptimeDay": "74.38%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 1291,
+    "timeDay": 1029,
+    "timeWeek": 1247,
+    "timeMonth": 1291,
+    "timeYear": 1291,
     "dailyMinutesDown": {
-      "2026-09-11": 0
+      "2026-09-11": 369
     }
   }
 ]
